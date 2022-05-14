@@ -1,3 +1,4 @@
+# Table 1 for the "Multiplicative errors-in-variables beta regression" paper.
 rm(list = ls())
 
 require(betareg)

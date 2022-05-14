@@ -1,3 +1,4 @@
+# pseudo-likelihood method
 rlike <- function(nTheta,w){
   mu.w <- nTheta[1]
   phi.w <- nTheta[2]

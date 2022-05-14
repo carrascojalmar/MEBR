@@ -1,3 +1,5 @@
+# regresion calibration method
+
 rc.mle <- function(formula,data,mu.e,B){
   default_opts <- callr::r(function(){options()})
   options(warn=-1,scipen=0,digits = 3)
