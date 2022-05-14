@@ -1,3 +1,2 @@
 # MEBR
-Multiplicative errors-in-variables beta regression
-The data and the code for the "multiplicative errors-in-variables beta regression" paper.
+The data and the codes for the "multiplicative errors-in-variables beta regression" paper.
